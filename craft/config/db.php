@@ -13,13 +13,13 @@ return array(
 	'server' => 'localhost',
 
 	// The database username to connect with.
-	'user' => 'root',
+	'user' => 'rhyanvar_me',
 
 	// The database password to connect with.
-	'password' => '',
+	'password' => 'Diosmio12!',
 
 	// The name of the database to select.
-	'database' => 'happylager',
+	'database' => 'rhyanvar_happylager',
 
 	// The prefix to use when naming tables. This can be no more than 5 characters.
 	'tablePrefix' => 'craft',
